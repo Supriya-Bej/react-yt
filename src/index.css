@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body{
+    background-color: black;
+    color: white;
+}
+
+/* scrollbar soranor jonno */
+#taskList::-webkit-scrollbar{
+    display: none;
+}

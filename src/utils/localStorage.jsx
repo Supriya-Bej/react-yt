@@ -7,7 +7,7 @@ const employees = [
       password: "123",
       firstName: "Aarav",
       taskNumbers: {
-        active: 1,
+        active: 2,
         newTask: 1,
         completed: 1,
         failed: 0
@@ -19,7 +19,7 @@ const employees = [
           date: "2025-01-10",
           category: "Reporting",
           active: true,
-          newTask: false,
+          newTask: true,
           completed: false,
           failed: false
         },
